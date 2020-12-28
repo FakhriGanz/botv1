@@ -9,9 +9,6 @@
 <p align="center">
 <a href="#"><img title="👾FakhriBot👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<details>
- 
-</details>
 
 
 ## NOTE:> 
@@ -52,3 +49,4 @@ Ket: Aktiv 24 jam
 * [`WhatsApp Admin `](https://wa.me/+628124002238)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
